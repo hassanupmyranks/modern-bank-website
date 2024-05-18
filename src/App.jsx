@@ -1,6 +1,6 @@
 import styles from "./style";
-import { Navbar ,Billing,Business,Button,CardDeal,Clients,Cta,FeedbackCard,
-  Footer,GetStarted,Hero,Stats,Testimonials} from "./components";
+import { Navbar ,Billing,Business,CardDeal,Clients,Cta,
+  Footer,Hero,Stats,Testimonials} from "./components";
 
 
 
